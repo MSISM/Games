@@ -1,3 +1,3 @@
 # Games
 Games to avoid my boredom.
-instructions within each script
+Instructions within each script
